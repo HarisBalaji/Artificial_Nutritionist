@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043262709822",
+    "project_id": "artificial-nutritionist1-6bdb3",
+    "storage_bucket": "artificial-nutritionist1-6bdb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043262709822:android:932233d56adb30b7a3b16f",
+        "android_client_info": {
+          "package_name": "com.example.artificialnutritionist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043262709822-k9ueqrvnvkeckboj1qv61lken96l968n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LBjftLTogLHLvM6k3-V7guZZhqdW1WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043262709822-k9ueqrvnvkeckboj1qv61lken96l968n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
