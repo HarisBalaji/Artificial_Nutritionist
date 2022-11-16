@@ -1,1 +1,1 @@
-# Artificial Nutritionist
+# Artificial Nutritionist - Disease Predictor App
